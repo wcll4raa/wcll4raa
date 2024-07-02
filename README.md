@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Boas vindas ao meu perfil 💙💙
-Meu nome é Cllara
+Meu nome é **Cllara**
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
