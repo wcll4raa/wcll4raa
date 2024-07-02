@@ -22,4 +22,5 @@ Estou me desenvolvendo na linguagem JavaScript
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 Você
 ![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fnew-party-member-tags-animation-gif-drawing-rainbow-chuchuland--533324780858176154%2F&psig=AOvVaw3fO5K28l-QPMrspofVdm5n&ust=1720005121753000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKj_-MqciIcDFQAAAAAdAAAAABAE)
+![](link)
 
